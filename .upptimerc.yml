@@ -1,5 +1,4 @@
-# Change these first
-owner: geometry-labs # Your GitHub organization or username, where this repository lives
+owner: geometry-labs
 repo: icon-status-page # The name of this repository
 
 sites:
@@ -14,21 +13,20 @@ sites:
   - name: Dev Addresses Service
     url: https://explorer.icon.geometry-dev.net/api/v1/addresses
   - name: Dev Governance Service
-    url: https://explorer.icon.geometry-dev.net/api/v1/governance
+    url: https://explorer.icon.geometry-dev.net/api/v1/governance/preps
   - name: Dev Contracts Service
     url: https://explorer.icon.geometry-dev.net/api/v1/contracts
   - name: Dev Metrics Service
-    url: https://explorer.icon.geometry-dev.net/api/v1/metrics
+    url: https://explorer.icon.geometry-dev.net/api/v1/metrics/supply
 
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.icon.geometry.io
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-logo.png
   name: Upptime
-  introTitle: "Status page for the **ICON Blockchain** endpoints supported by **Geometry Labs**."
+  introTitle: |
+    Status page for the **ICON Blockchain**
+    Endpoints supported by **Geometry Labs**
   introMessage: TODO
   navbar:
     - title: Status
@@ -38,5 +36,3 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
