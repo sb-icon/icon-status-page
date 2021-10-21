@@ -26,7 +26,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.icon.geometry.io
   # baseUrl: /your-repo-name
-  themeUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.png
+  themeUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.css
   favicon: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-favicon.png
   logoUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-logo.png
   name: ICON Status
