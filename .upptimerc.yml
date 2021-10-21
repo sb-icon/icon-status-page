@@ -1,5 +1,5 @@
 owner: geometry-labs
-repo: icon-status-page # The name of this repository
+repo: icon-status-page
 
 sites:
   - name: Dev Tracker Frontend
@@ -27,6 +27,11 @@ status-website:
   introTitle: |
     Status page for the **ICON Blockchain**
     Endpoints supported by **Geometry Labs**
+  themeUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.css
+  favicon: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-favicon.png
+  metaTags:
+    - name: "ICON Status"
+    - content: "noIndex"
   introMessage: TODO
   navbar:
     - title: Status
