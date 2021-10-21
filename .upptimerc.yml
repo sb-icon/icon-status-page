@@ -21,7 +21,7 @@ sites:
 
 
 status-website:
-   links:
+  links:
     - rel: stylesheet
       href: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.css
   cname: status.icon.geometry.io
