@@ -13,7 +13,7 @@ sites:
   - name: Dev Addresses Service
     url: https://explorer.icon.geometry-dev.net/api/v1/addresses
   - name: Dev Governance Service
-    url: https://explorer.icon.geometry-dev.net/api/v1/governance/preps
+    url: https://explorer.icon.geometry-dev.net/api/v1/preps
   - name: Dev Contracts Service
     url: https://explorer.icon.geometry-dev.net/api/v1/contracts
   - name: Dev Metrics Service
