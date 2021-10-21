@@ -21,7 +21,9 @@ sites:
 
 
 status-website:
-  themeUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.css
+   links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.css
   cname: status.icon.geometry.io
   logoUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-logo.png
   name: Upptime
