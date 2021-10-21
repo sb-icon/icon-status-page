@@ -29,7 +29,10 @@ status-website:
   themeUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-theme.png
   favicon: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-favicon.png
   logoUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-logo.png
-  name: Upptime
+  name: ICON Status
+  metaTags:
+    - name: "ICON Status"
+    - content: "noIndex"
   introTitle: "Status page for the **ICON Blockchain** endpoints supported by **Geometry Labs**."
   introMessage: TODO
   navbar:
