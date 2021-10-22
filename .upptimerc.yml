@@ -36,6 +36,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Grafana
+      href: https://grafana.icon.geometry.io
     - title: Kibana
       href: https://kibana.icon.geometry.io
     - title: GitHub
