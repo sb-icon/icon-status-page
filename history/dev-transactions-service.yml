@@ -1,7 +1,7 @@
 url: https://explorer.icon.geometry-dev.net/api/v1/transactions
-status: up
-code: 200
-responseTime: 81
-lastUpdated: 2021-10-28T19:52:52.537Z
+status: down
+code: 504
+responseTime: 10088
+lastUpdated: 2021-10-28T21:41:21.870Z
 startTime: Wed Oct 20 2021 20:47:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
