@@ -1,7 +1,7 @@
 url: https://explorer.icon.geometry-dev.net/api/v1/metrics/supply
-status: down
-code: 503
-responseTime: 87
-lastUpdated: 2021-11-08T22:11:39.087Z
+status: up
+code: 200
+responseTime: 506
+lastUpdated: 2021-11-08T22:24:42.446Z
 startTime: Wed Oct 20 2021 20:47:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
