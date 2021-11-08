@@ -1,7 +1,7 @@
 url: https://explorer.icon.geometry-dev.net/api/v1/blocks
-status: down
-code: 503
-responseTime: 83
-lastUpdated: 2021-11-08T22:11:22.558Z
+status: up
+code: 200
+responseTime: 183
+lastUpdated: 2021-11-08T22:24:28.129Z
 startTime: Wed Oct 20 2021 20:47:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
