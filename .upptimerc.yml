@@ -2,6 +2,38 @@ owner: geometry-labs
 repo: icon-status-page
 
 sites:
+  - name: Prod Mainnet Tracker Frontend
+    url: https://explorer.icon.geometry.io/
+  - name: Prod Mainnet Blocks Service
+    url: https://explorer.icon.geometry.io/api/v1/blocks
+  - name: Prod Mainnet Transactions Service
+    url: https://explorer.icon.geometry.io/api/v1/transactions
+  - name: Prod Mainnet Logs Service
+    url: https://explorer.icon.geometry.io/api/v1/logs
+  - name: Prod Mainnet Addresses Service
+    url: https://explorer.icon.geometry.io/api/v1/addresses
+  - name: Prod Mainnet Governance Service
+    url: https://explorer.icon.geometry.io/api/v1/preps
+  - name: Prod Mainnet Contracts Service
+    url: https://explorer.icon.geometry.io/api/v1/contracts
+  - name: Prod Mainnet Metrics Service
+    url: https://explorer.icon.geometry.io/api/v1/metrics/supply
+  - name: Prod Sejong Tracker Frontend
+    url: https://explorer.icon.geometry.io/
+  - name: Prod Sejong Blocks Service
+    url: https://explorer.icon.geometry.io/api/v1/blocks
+  - name: Prod Sejong Transactions Service
+    url: https://explorer.icon.geometry.io/api/v1/transactions
+  - name: Prod Sejong Logs Service
+    url: https://explorer.icon.geometry.io/api/v1/logs
+  - name: Prod Sejong Addresses Service
+    url: https://explorer.icon.geometry.io/api/v1/addresses
+  - name: Prod Sejong Governance Service
+    url: https://explorer.icon.geometry.io/api/v1/preps
+  - name: Prod Sejong Contracts Service
+    url: https://explorer.icon.geometry.io/api/v1/contracts
+  - name: Prod Sejong Metrics Service
+    url: https://explorer.icon.geometry.io/api/v1/metrics/supply
   - name: Dev Tracker Frontend
     url: https://explorer.icon.geometry-dev.net/
   - name: Dev Blocks Service
@@ -24,7 +56,7 @@ status-website:
   theme: dark
   cname: status.icon.geometry.io
   logoUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-logo.png
-  name: Upptime
+  name: ICON Blockchain
   introTitle: |
     Status page for the **ICON Blockchain**
     Endpoints supported by **Geometry Labs**
@@ -32,14 +64,17 @@ status-website:
   metaTags:
     - name: "ICON Status"
     - content: "noIndex"
-  introMessage: TODO
+  introMessage: |
+
   navbar:
     - title: Status
       href: /
     - title: Grafana
       href: https://grafana.icon.geometry.io
-    - title: Kibana
-      href: https://kibana.icon.geometry.io
+    - title: Kibana - US
+      href: https://kibana.us-west-2.aws.geometry.io/
+    - title: Kibana - EU
+      href: https://kibana.eu-west-2.aws.geometry.io/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/icon-explorer
 
