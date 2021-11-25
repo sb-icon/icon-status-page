@@ -1,7 +1,7 @@
 url: https://explorer.icon.geometry-dev.net/api/v1/contracts
-status: down
-code: 503
-responseTime: 87
-lastUpdated: 2021-11-25T18:53:02.194Z
+status: up
+code: 200
+responseTime: 313
+lastUpdated: 2021-11-25T19:12:50.811Z
 startTime: Wed Oct 20 2021 20:47:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
