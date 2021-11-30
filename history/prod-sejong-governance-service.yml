@@ -1,7 +1,7 @@
 url: https://explorer.icon.geometry.io/api/v1/preps
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2021-11-30T00:58:54.537Z
+status: down
+code: 504
+responseTime: 10055
+lastUpdated: 2021-11-30T04:43:33.665Z
 startTime: Thu Nov 18 2021 02:31:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
