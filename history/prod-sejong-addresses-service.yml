@@ -1,7 +1,7 @@
 url: https://explorer.icon.geometry.io/api/v1/addresses
-status: down
-code: 504
-responseTime: 10054
-lastUpdated: 2021-11-30T04:43:00.137Z
+status: up
+code: 200
+responseTime: 91
+lastUpdated: 2021-11-30T05:25:49.026Z
 startTime: Thu Nov 18 2021 02:31:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
