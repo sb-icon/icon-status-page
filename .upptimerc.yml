@@ -3,37 +3,61 @@ repo: icon-status-page
 
 sites:
   - name: Prod Mainnet Tracker Frontend
-    url: https://explorer.icon.geometry.io/
+    url: https://tracker.icon.community/
   - name: Prod Mainnet Blocks Service
-    url: https://explorer.icon.geometry.io/api/v1/blocks
+    url: https://tracker.icon.community/api/v1/blocks
   - name: Prod Mainnet Transactions Service
-    url: https://explorer.icon.geometry.io/api/v1/transactions
+    url: https://tracker.icon.community/api/v1/transactions
   - name: Prod Mainnet Logs Service
-    url: https://explorer.icon.geometry.io/api/v1/logs
+    url: https://tracker.icon.community/api/v1/logs
   - name: Prod Mainnet Addresses Service
-    url: https://explorer.icon.geometry.io/api/v1/addresses
+    url: https://tracker.icon.community/api/v1/addresses
   - name: Prod Mainnet Governance Service
-    url: https://explorer.icon.geometry.io/api/v1/preps
+    url: https://tracker.icon.community/api/v1/preps
   - name: Prod Mainnet Contracts Service
-    url: https://explorer.icon.geometry.io/api/v1/contracts
-#  - name: Prod Mainnet Metrics Service
-#    url: https://explorer.icon.geometry.io/api/v1/metrics/supply
+    url: https://tracker.icon.community/api/v1/contracts
+  - name: US Mainnet Tracker Frontend
+    url: https://usw2.tracker.icon.geometry.io/
+  - name: US Mainnet Blocks Service
+    url: https://usw2.tracker.icon.geometry.io/api/v1/blocks
+  - name: US Mainnet Transactions Service
+    url: https://usw2.tracker.icon.geometry.io/api/v1/transactions
+  - name: US Mainnet Logs Service
+    url: https://usw2.tracker.icon.geometry.io/api/v1/logs
+  - name: US Mainnet Addresses Service
+    url: https://usw2.tracker.icon.geometry.io/api/v1/addresses
+  - name: US Mainnet Governance Service
+    url: https://usw2.tracker.icon.geometry.io/api/v1/preps
+  - name: US Mainnet Contracts Service
+    url: https://usw2.tracker.icon.geometry.io/api/v1/contracts
+  - name: EU Mainnet Tracker Frontend
+    url: https://euw1.tracker.icon.geometry.io/
+  - name: EU Mainnet Blocks Service
+    url: https://euw1.tracker.icon.geometry.io/api/v1/blocks
+  - name: EU Mainnet Transactions Service
+    url: https://euw1.tracker.icon.geometry.io/api/v1/transactions
+  - name: EU Mainnet Logs Service
+    url: https://euw1.tracker.icon.geometry.io/api/v1/logs
+  - name: EU Mainnet Addresses Service
+    url: https://euw1.tracker.icon.geometry.io/api/v1/addresses
+  - name: EU Mainnet Governance Service
+    url: https://euw1.tracker.icon.geometry.io/api/v1/preps
+  - name: EU Mainnet Contracts Service
+    url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
   - name: Prod Sejong Tracker Frontend
-    url: https://explorer.icon.geometry.io/
+    url: https://explorer.sejong.geometry.io/
   - name: Prod Sejong Blocks Service
-    url: https://explorer.icon.geometry.io/api/v1/blocks
+    url: https://explorer.sejong.geometry.io/api/v1/blocks
   - name: Prod Sejong Transactions Service
-    url: https://explorer.icon.geometry.io/api/v1/transactions
+    url: https://explorer.sejong.geometry.io/api/v1/transactions
   - name: Prod Sejong Logs Service
-    url: https://explorer.icon.geometry.io/api/v1/logs
+    url: https://explorer.sejong.geometry.io/api/v1/logs
   - name: Prod Sejong Addresses Service
-    url: https://explorer.icon.geometry.io/api/v1/addresses
+    url: https://explorer.sejong.geometry.io/api/v1/addresses
   - name: Prod Sejong Governance Service
-    url: https://explorer.icon.geometry.io/api/v1/preps
+    url: https://explorer.sejong.geometry.io/api/v1/preps
   - name: Prod Sejong Contracts Service
-    url: https://explorer.icon.geometry.io/api/v1/contracts
-#  - name: Prod Sejong Metrics Service
-#    url: https://explorer.icon.geometry.io/api/v1/metrics/supply
+    url: https://explorer.sejong.geometry.io/api/v1/contracts
   - name: Dev Tracker Frontend
     url: https://explorer.icon.geometry-dev.net/
   - name: Dev Blocks Service
@@ -48,8 +72,6 @@ sites:
     url: https://explorer.icon.geometry-dev.net/api/v1/preps
   - name: Dev Contracts Service
     url: https://explorer.icon.geometry-dev.net/api/v1/contracts
-#  - name: Dev Metrics Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/metrics/supply
 
 
 status-website:
