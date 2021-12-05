@@ -1,7 +1,7 @@
 url: https://explorer.sejong.geometry.io/
-status: up
-code: 200
-responseTime: 1324
-lastUpdated: 2021-12-04T23:00:52.750Z
+status: down
+code: 503
+responseTime: 1306
+lastUpdated: 2021-12-05T00:03:20.791Z
 startTime: Thu Nov 18 2021 02:31:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
