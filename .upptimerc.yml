@@ -75,7 +75,9 @@ sites:
 
 
 status-website:
-  theme: dark
+  links:
+    - rel: stylesheet
+      href: https://rheannone.github.io/CSS/css/icon-status_dark-theme.css
   cname: status.icon.geometry.io
   logoUrl: https://raw.githubusercontent.com/geometry-labs/icon-status-page/master/assets/icon-logo.png
   name: ICON Blockchain
