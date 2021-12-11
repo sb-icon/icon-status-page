@@ -16,6 +16,8 @@ sites:
     url: https://tracker.icon.community/api/v1/preps
   - name: Prod Mainnet Contracts Service
     url: https://tracker.icon.community/api/v1/contracts
+  - name: Prod Mainnet Metrics Service
+    url: https://tracker.icon.community/api/v1/metrics/supply
   - name: US Mainnet Tracker Frontend
     url: https://usw2.tracker.icon.geometry.io/
   - name: US Mainnet Blocks Service
@@ -30,6 +32,8 @@ sites:
     url: https://usw2.tracker.icon.geometry.io/api/v1/preps
   - name: US Mainnet Contracts Service
     url: https://usw2.tracker.icon.geometry.io/api/v1/contracts
+  - name: US Prod Mainnet Metrics Service
+    url: https://usw2.tracker.icon.community/api/v1/metrics/supply
   - name: EU Mainnet Tracker Frontend
     url: https://euw1.tracker.icon.geometry.io/
   - name: EU Mainnet Blocks Service
@@ -44,6 +48,8 @@ sites:
     url: https://euw1.tracker.icon.geometry.io/api/v1/preps
   - name: EU Mainnet Contracts Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
+  - name: EU Prod Mainnet Metrics Service
+    url: https://euw2.tracker.icon.community/api/v1/metrics/supply
   - name: Prod Sejong Tracker Frontend
     url: https://explorer.sejong.geometry.io/
   - name: Prod Sejong Blocks Service
@@ -58,6 +64,8 @@ sites:
     url: https://explorer.sejong.geometry.io/api/v1/preps
   - name: Prod Sejong Contracts Service
     url: https://explorer.sejong.geometry.io/api/v1/contracts
+  - name: Prod Sejong Metrics Service
+    url: https://explorer.sejong.geometry.io/api/v1/metrics/supply
   - name: Dev Tracker Frontend
     url: https://explorer.icon.geometry-dev.net/
   - name: Dev Blocks Service
@@ -72,6 +80,8 @@ sites:
     url: https://explorer.icon.geometry-dev.net/api/v1/preps
   - name: Dev Contracts Service
     url: https://explorer.icon.geometry-dev.net/api/v1/contracts
+  - name: Dev Metrics Service
+    url: https://explorer.icon.geometry-dev.net/api/v1/metrics/supply
 
 
 status-website:
