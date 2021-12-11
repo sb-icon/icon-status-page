@@ -362,18 +362,18 @@
     "icon": "https://favicons.githubusercontent.com/usw2.tracker.icon.community",
     "slug": "us-prod-mainnet-metrics-service",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 1
     }
   },
   {
@@ -508,18 +508,18 @@
     "icon": "https://favicons.githubusercontent.com/euw2.tracker.icon.community",
     "slug": "eu-prod-mainnet-metrics-service",
     "status": "down",
-    "uptime": "6.09%",
-    "uptimeDay": "6.09%",
-    "uptimeWeek": "6.09%",
-    "uptimeMonth": "6.09%",
-    "uptimeYear": "6.09%",
+    "uptime": "2.06%",
+    "uptimeDay": "2.06%",
+    "uptimeWeek": "2.06%",
+    "uptimeMonth": "2.06%",
+    "uptimeYear": "2.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 1
     }
   },
   {
