@@ -2,6 +2,10 @@ owner: geometry-labs
 repo: icon-status-page
 
 sites:
+  - name: Prod ICON RPC
+    url: https://icon.geometry.io/api/v3
+
+
   - name: Prod Mainnet Tracker Frontend
     url: https://tracker.icon.community/
   - name: Prod Mainnet Blocks Service
@@ -33,7 +37,7 @@ sites:
   - name: US Mainnet Contracts Service
     url: https://usw2.tracker.icon.geometry.io/api/v1/contracts
   - name: US Prod Mainnet Metrics Service
-    url: https://usw2.tracker.icon.community/api/v1/metrics/supply
+    url: https://usw2.tracker.icon.geometry.io/api/v1/metrics/supply
   - name: EU Mainnet Tracker Frontend
     url: https://euw1.tracker.icon.geometry.io/
   - name: EU Mainnet Blocks Service
@@ -49,7 +53,7 @@ sites:
   - name: EU Mainnet Contracts Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
   - name: EU Prod Mainnet Metrics Service
-    url: https://euw2.tracker.icon.community/api/v1/metrics/supply
+    url: https://euw2.tracker.icon.geometry.io/api/v1/metrics/supply
   - name: Prod Sejong Tracker Frontend
     url: https://explorer.sejong.geometry.io/
   - name: Prod Sejong Blocks Service
