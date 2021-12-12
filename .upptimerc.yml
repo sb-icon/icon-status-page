@@ -4,7 +4,8 @@ repo: icon-status-page
 sites:
   - name: Prod ICON RPC
     url: https://icon.geometry.io/api/v3
-
+    method: POST
+    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
   - name: Prod Mainnet Tracker Frontend
     url: https://tracker.icon.community/
@@ -53,7 +54,7 @@ sites:
   - name: EU Mainnet Contracts Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
   - name: EU Prod Mainnet Metrics Service
-    url: https://euw2.tracker.icon.geometry.io/api/v1/metrics/supply
+    url: https://euw1.tracker.icon.geometry.io/api/v1/metrics/supply
   - name: Prod Sejong Tracker Frontend
     url: https://explorer.sejong.geometry.io/
   - name: Prod Sejong Blocks Service
