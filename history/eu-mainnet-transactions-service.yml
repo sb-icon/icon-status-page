@@ -1,7 +1,7 @@
 url: https://euw1.tracker.icon.geometry.io/api/v1/transactions
-status: down
-code: 504
-responseTime: 10074
-lastUpdated: 2021-12-16T03:20:27.431Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2021-12-16T03:31:48.312Z
 startTime: Fri Dec 03 2021 21:43:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
