@@ -3,7 +3,7 @@ repo: icon-status-page
 
 sites:
   - name: Prod ICON RPC
-    url: https://icon.geometry.io/api/v3
+    url: https://api.icon.geometry.io/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
