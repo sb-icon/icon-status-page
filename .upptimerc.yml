@@ -55,22 +55,22 @@ sites:
     url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
   - name: EU Prod Mainnet Metrics Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/metrics/supply
-  - name: Prod Sejong Tracker Frontend
-    url: https://explorer.sejong.geometry.io/
-  - name: Prod Sejong Blocks Service
-    url: https://explorer.sejong.geometry.io/api/v1/blocks
-  - name: Prod Sejong Transactions Service
-    url: https://explorer.sejong.geometry.io/api/v1/transactions
-  - name: Prod Sejong Logs Service
-    url: https://explorer.sejong.geometry.io/api/v1/logs
-  - name: Prod Sejong Addresses Service
-    url: https://explorer.sejong.geometry.io/api/v1/addresses
-  - name: Prod Sejong Governance Service
-    url: https://explorer.sejong.geometry.io/api/v1/preps
-  - name: Prod Sejong Contracts Service
-    url: https://explorer.sejong.geometry.io/api/v1/contracts
-  - name: Prod Sejong Metrics Service
-    url: https://explorer.sejong.geometry.io/api/v1/metrics/supply
+#  - name: Prod Sejong Tracker Frontend
+#    url: https://explorer.sejong.geometry.io/
+#  - name: Prod Sejong Blocks Service
+#    url: https://explorer.sejong.geometry.io/api/v1/blocks
+#  - name: Prod Sejong Transactions Service
+#    url: https://explorer.sejong.geometry.io/api/v1/transactions
+#  - name: Prod Sejong Logs Service
+#    url: https://explorer.sejong.geometry.io/api/v1/logs
+#  - name: Prod Sejong Addresses Service
+#    url: https://explorer.sejong.geometry.io/api/v1/addresses
+#  - name: Prod Sejong Governance Service
+#    url: https://explorer.sejong.geometry.io/api/v1/preps
+#  - name: Prod Sejong Contracts Service
+#    url: https://explorer.sejong.geometry.io/api/v1/contracts
+#  - name: Prod Sejong Metrics Service
+#    url: https://explorer.sejong.geometry.io/api/v1/metrics/supply
   - name: Dev Tracker Frontend
     url: https://explorer.icon.geometry-dev.net/
   - name: Dev Blocks Service
