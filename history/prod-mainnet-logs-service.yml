@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/logs
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2022-02-03T16:08:39.861Z
+status: down
+code: 500
+responseTime: 1193
+lastUpdated: 2022-02-03T18:34:47.691Z
 startTime: Thu Nov 18 2021 02:31:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
