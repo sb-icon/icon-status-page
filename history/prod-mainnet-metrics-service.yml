@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/metrics/supply
-status: down
-code: 500
-responseTime: 1229
-lastUpdated: 2022-02-03T18:35:11.992Z
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2022-02-03T18:45:16.877Z
 startTime: Sat Dec 11 2021 00:54:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
