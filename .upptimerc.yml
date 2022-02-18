@@ -58,6 +58,7 @@ sites:
   - name : Blocks Mainnet Websocket
     check: "ws"
     url: wss://tracker.icon.community/ws/v1/blocks
+    maxResponseTime: 10
 #  - name: Prod Sejong Tracker Frontend
 #    url: https://explorer.sejong.geometry.io/
 #  - name: Prod Sejong Blocks Service
