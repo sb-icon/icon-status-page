@@ -55,6 +55,9 @@ sites:
     url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
   - name: EU Prod Mainnet Metrics Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/metrics/supply
+  - name : Blocks Mainnet Websocket
+    check: "ws"
+    url: wss://tracker.icon.community/ws/v1/blocks
 #  - name: Prod Sejong Tracker Frontend
 #    url: https://explorer.sejong.geometry.io/
 #  - name: Prod Sejong Blocks Service
@@ -87,6 +90,7 @@ sites:
 #    url: https://explorer.icon.geometry-dev.net/api/v1/contracts
 #  - name: Dev Metrics Service
 #    url: https://explorer.icon.geometry-dev.net/api/v1/metrics/supply
+
 
 
 status-website:
