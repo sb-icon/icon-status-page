@@ -59,6 +59,11 @@ sites:
     check: "ws"
     url: wss://tracker.icon.community/ws/v1/blocks
     maxResponseTime: 10000
+  - name : W3 Test Websocket
+    check: "ws"
+    url: wss://kusama.geometry.io/websockets
+    maxResponseTime: 10000
+    body: '{"jsonrpc":"2.0", "method":"system_health", "params":[],"id":1}'
 #  - name: Prod Sejong Tracker Frontend
 #    url: https://explorer.sejong.geometry.io/
 #  - name: Prod Sejong Blocks Service
