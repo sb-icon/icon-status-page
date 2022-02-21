@@ -2,19 +2,37 @@ owner: geometry-labs
 repo: icon-status-page
 
 sites:
+  # API NODES
   - name: Prod ICON RPC
     url: https://api.icon.geometry.io/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
+  # GLOBAL MAINNET
   - name: Prod Mainnet Tracker Frontend
     url: https://tracker.icon.community/
-  - name: Prod Mainnet Blocks Service
+
+  - name: Prod Mainnet Blocks Service (RPC)
     url: https://tracker.icon.community/api/v1/blocks
-  - name: Prod Mainnet Transactions Service
+  - name: Prod Mainnet Blocks Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://tracker.icon.community/ws/v1/blocks
+
+  - name: Prod Mainnet Transactions Service (RPC)
     url: https://tracker.icon.community/api/v1/transactions
-  - name: Prod Mainnet Logs Service
+  - name: Prod Mainnet Transactions Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://tracker.icon.community/ws/v1/transactions
+
+  - name: Prod Mainnet Logs Service (RPC)
     url: https://tracker.icon.community/api/v1/logs
+  - name: Prod Mainnet Transactions Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://tracker.icon.community/ws/v1/logs
+
   - name: Prod Mainnet Addresses Service
     url: https://tracker.icon.community/api/v1/addresses
   - name: Prod Mainnet Governance Service
@@ -23,14 +41,32 @@ sites:
     url: https://tracker.icon.community/api/v1/contracts
   - name: Prod Mainnet Metrics Service
     url: https://tracker.icon.community/api/v1/metrics/supply
+
+  # US MAINNET
   - name: US Mainnet Tracker Frontend
     url: https://usw2.tracker.icon.geometry.io/
-  - name: US Mainnet Blocks Service
+
+  - name: US Mainnet Blocks Service (RPC)
     url: https://usw2.tracker.icon.geometry.io/api/v1/blocks
-  - name: US Mainnet Transactions Service
+  - name: US Mainnet Blocks Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://usw2.tracker.icon.geometry.io/ws/v1/blocks
+
+  - name: US Mainnet Transactions Service (RPC)
     url: https://usw2.tracker.icon.geometry.io/api/v1/transactions
-  - name: US Mainnet Logs Service
+  - name: US Mainnet Transactions Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://usw2.tracker.icon.geometry.io/ws/v1/transactions
+
+  - name: US Mainnet Logs Service (RPC)
     url: https://usw2.tracker.icon.geometry.io/api/v1/logs
+  - name: US Mainnet Transactions Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://usw2.tracker.icon.geometry.io/ws/v1/logs
+
   - name: US Mainnet Addresses Service
     url: https://usw2.tracker.icon.geometry.io/api/v1/addresses
   - name: US Mainnet Governance Service
@@ -39,14 +75,32 @@ sites:
     url: https://usw2.tracker.icon.geometry.io/api/v1/contracts
   - name: US Prod Mainnet Metrics Service
     url: https://usw2.tracker.icon.geometry.io/api/v1/metrics/supply
+
+  # EU MAINNET
   - name: EU Mainnet Tracker Frontend
     url: https://euw1.tracker.icon.geometry.io/
+
   - name: EU Mainnet Blocks Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/blocks
+  - name: US Mainnet Blocks Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://euw1.tracker.icon.geometry.io/ws/v1/blocks
+
   - name: EU Mainnet Transactions Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/transactions
+  - name: US Mainnet Transactions Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://euw1.tracker.icon.geometry.io/ws/v1/transactions
+
   - name: EU Mainnet Logs Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/logs
+  - name: US Mainnet Transactions Service (WS)
+    check: "ws"
+    maxResponseTime: 10000
+    url: https://euw1.tracker.icon.geometry.io/ws/v1/logs
+
   - name: EU Mainnet Addresses Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/addresses
   - name: EU Mainnet Governance Service
@@ -55,44 +109,6 @@ sites:
     url: https://euw1.tracker.icon.geometry.io/api/v1/contracts
   - name: EU Prod Mainnet Metrics Service
     url: https://euw1.tracker.icon.geometry.io/api/v1/metrics/supply
-  - name : Blocks Mainnet Websocket
-    check: "ws"
-    url: wss://tracker.icon.community/ws/v1/blocks
-    maxResponseTime: 10000
-#  - name: Prod Sejong Tracker Frontend
-#    url: https://explorer.sejong.geometry.io/
-#  - name: Prod Sejong Blocks Service
-#    url: https://explorer.sejong.geometry.io/api/v1/blocks
-#  - name: Prod Sejong Transactions Service
-#    url: https://explorer.sejong.geometry.io/api/v1/transactions
-#  - name: Prod Sejong Logs Service
-#    url: https://explorer.sejong.geometry.io/api/v1/logs
-#  - name: Prod Sejong Addresses Service
-#    url: https://explorer.sejong.geometry.io/api/v1/addresses
-#  - name: Prod Sejong Governance Service
-#    url: https://explorer.sejong.geometry.io/api/v1/preps
-#  - name: Prod Sejong Contracts Service
-#    url: https://explorer.sejong.geometry.io/api/v1/contracts
-#  - name: Prod Sejong Metrics Service
-#    url: https://explorer.sejong.geometry.io/api/v1/metrics/supply
-#  - name: Dev Tracker Frontend
-#    url: https://explorer.icon.geometry-dev.net/
-#  - name: Dev Blocks Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/blocks
-#  - name: Dev Transactions Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/transactions
-#  - name: Dev Logs Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/logs
-#  - name: Dev Addresses Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/addresses
-#  - name: Dev Governance Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/preps
-#  - name: Dev Contracts Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/contracts
-#  - name: Dev Metrics Service
-#    url: https://explorer.icon.geometry-dev.net/api/v1/metrics/supply
-
-
 
 status-website:
   links:
