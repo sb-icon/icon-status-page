@@ -1,7 +1,7 @@
 url: https://usw2.tracker.icon.geometry.io/api/v1/blocks
-status: up
-code: 200
-responseTime: 86
-lastUpdated: 2022-02-24T23:00:50.258Z
+status: down
+code: 503
+responseTime: 89
+lastUpdated: 2022-02-25T12:30:16.178Z
 startTime: Mon Feb 21 2022 18:21:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
