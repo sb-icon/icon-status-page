@@ -1,7 +1,7 @@
 url: https://usw2.tracker.icon.geometry.io/api/v1/contracts
-status: down
-code: 503
-responseTime: 78
-lastUpdated: 2022-02-28T01:11:19.099Z
+status: up
+code: 200
+responseTime: 896
+lastUpdated: 2022-02-28T05:05:26.222Z
 startTime: Fri Dec 03 2021 21:43:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
