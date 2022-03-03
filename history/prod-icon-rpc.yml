@@ -1,7 +1,7 @@
 url: https://api.icon.geometry.io/api/v3
-status: down
-code: 504
-responseTime: 10386
-lastUpdated: 2022-03-03T18:54:01.443Z
+status: up
+code: 200
+responseTime: 6144
+lastUpdated: 2022-03-03T19:02:54.358Z
 startTime: Sat Dec 11 2021 23:25:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
