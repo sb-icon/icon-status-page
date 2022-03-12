@@ -1,7 +1,7 @@
-url: https://usw2.tracker.icon.geometry.io/ws/v1/transactions
+url: https://usw2.tracker.icon.geometry.io/ws/v1/logs
 status: up
 code: 200
 responseTime: 0
-lastUpdated: 2022-03-12T23:00:38.551Z
+lastUpdated: 2022-03-12T23:00:39.529Z
 startTime: Mon Feb 21 2022 18:21:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
