@@ -1,7 +1,7 @@
-url: https://tracker.icon.community/ws/v1/transactions
+url: https://tracker.icon.community/ws/v1/logs
 status: up
 code: 200
 responseTime: 0
-lastUpdated: 2022-05-30T23:00:37.314Z
+lastUpdated: 2022-05-30T23:00:38.460Z
 startTime: Mon Feb 21 2022 18:21:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
