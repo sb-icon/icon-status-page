@@ -111,54 +111,54 @@ sites:
     url: https://euw1.tracker.icon.geometry.io/api/v1/metrics/supply
 
   - name: Prod Mainnet RPC
-    url: https://api.icon.community/
+    url: https://api.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Mainnet Amsterdam RPC
-    url: https://api.mainnet.ams.vultr.icon.community/
+    url: https://api.mainnet.ams.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Mainnet Singapore RPC
-    url: https://api.mainnet.sng.vultr.icon.community/
+    url: https://api.mainnet.sng.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
   - name: Prod Sejong RPC
-    url: https://api.sejong.icon.community/
+    url: https://api.sejong.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Sejong Amsterdam RPC
-    url: https://api.sejong.ams.vultr.icon.community/
+    url: https://api.sejong.ams.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Sejong Singapore RPC
-    url: https://api.sejong.sng.vultr.icon.community/
+    url: https://api.sejong.sng.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
   - name: Prod Lisbon RPC
-    url: https://api.lisbon.icon.community/
+    url: https://api.lisbon.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Lisbon Amsterdam RPC
-    url: https://api.lisbon.ams.vultr.icon.community/
+    url: https://api.lisbon.ams.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Lisbon Singapore RPC
-    url: https://api.lisbon.sng.vultr.icon.community/
+    url: https://api.lisbon.sng.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
   - name: Prod Berlin RPC
-    url: https://api.berlin.icon.community/
+    url: https://api.berlin.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Amsterdam RPC
-    url: https://api.berlin.ams.vultr.icon.community/
+    url: https://api.berlin.ams.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Singapore RPC
-    url: https://api.berlin.sng.vultr.icon.community/
+    url: https://api.berlin.sng.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
