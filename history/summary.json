@@ -825,9 +825,9 @@
     "url": "https://api.berlin.icon.community/api/v3",
     "icon": "https://favicons.githubusercontent.com/api.berlin.icon.community",
     "slug": "prod-berlin-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "96.87%",
+    "uptimeDay": "96.82%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.39%",
@@ -837,7 +837,7 @@
     "timeMonth": 521,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2022-06-21": 45,
+      "2022-06-21": 46,
       "2022-06-17": 4,
       "2022-06-16": 19,
       "2022-06-07": 56
