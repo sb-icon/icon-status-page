@@ -3,6 +3,10 @@ repo: icon-status-page
 
 sites:
 
+  # GLOBAL MAINNET
+  - name: Prod Mainnet Tracker Frontend
+    url: https://tracker.icon.community/
+
   - name: Prod Mainnet API
     url: https://tracker.icon.community/api/v1/blocks
   - name: Prod Mainnet Blocks Service (WS)
