@@ -2,15 +2,6 @@ owner: geometry-labs
 repo: icon-status-page
 
 sites:
-  # API NODES
-  - name: Prod ICON RPC
-    url: https://api.icon.geometry.io/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-
-  # GLOBAL MAINNET
-  - name: Prod Mainnet Tracker Frontend
-    url: https://tracker.icon.community/
 
   - name: Prod Mainnet API
     url: https://tracker.icon.community/api/v1/blocks
@@ -20,7 +11,7 @@ sites:
     url: https://tracker.icon.community/ws/v1/blocks
 
   - name: Prod Mainnet Governance Service
-    url: https://tracker.icon.community/api/v1/governance
+    url: https://tracker.icon.community/api/v1/governance/preps
   - name: Prod Mainnet Contracts Service
     url: https://tracker.icon.community/api/v1/contracts
 
@@ -36,7 +27,7 @@ sites:
     url: https://tracker.icon.community/ws/v1/blocks
 
   - name: Prod Mainnet Governance Service (Amsterdam)
-    url: https://tracker.icon.community/api/v1/governance
+    url: https://tracker.icon.community/api/v1/governance/preps
   - name: Prod Mainnet Contracts Service (Amsterdam)
     url: https://tracker.icon.community/api/v1/contracts
 
@@ -52,7 +43,7 @@ sites:
     url: https://tracker.icon.community/ws/v1/blocks
 
   - name: Prod Mainnet Governance Service (Singapore)
-    url: https://tracker.icon.community/api/v1/governance
+    url: https://tracker.icon.community/api/v1/governance/preps
   - name: Prod Mainnet Contracts Service (Singapore)
     url: https://tracker.icon.community/api/v1/contracts
 
@@ -129,7 +120,7 @@ status-website:
     - title: Status
       href: /
     - title: Grafana
-      href: https://grafana.icon.geometry.io
+      href: https://grafana.icon.community
     - title: Kibana - US
       href: https://kibana.us-west-2.aws.geometry.io/
     - title: Kibana - EU
