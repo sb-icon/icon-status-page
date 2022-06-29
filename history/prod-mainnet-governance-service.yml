@@ -1,7 +1,7 @@
-url: https://tracker.icon.community/api/v1/preps
+url: https://tracker.icon.community/api/v1/governance
 status: down
 code: 404
-responseTime: 109
-lastUpdated: 2022-06-29T06:40:18.130Z
+responseTime: 104
+lastUpdated: 2022-06-29T06:48:42.776Z
 startTime: Thu Nov 18 2021 02:31:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
