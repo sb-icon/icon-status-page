@@ -6,9 +6,14 @@ sites:
   # GLOBAL MAINNET
   - name: Prod Mainnet Tracker Frontend
     url: https://tracker.icon.community/
+    headers:
+      - "User-Agent: icon uptime"
 
   - name: Prod Mainnet API
     url: https://tracker.icon.community/api/v1/blocks
+    headers:
+      - "User-Agent: icon uptime"
+
   - name: Prod Mainnet Blocks Service (WS)
     check: "ws"
     maxResponseTime: 10000
@@ -16,6 +21,7 @@ sites:
 
   - name: Prod Mainnet Governance Service
     url: https://tracker.icon.community/api/v1/governance/preps
+
   - name: Prod Mainnet Contracts Service
     url: https://tracker.icon.community/api/v1/contracts
 
