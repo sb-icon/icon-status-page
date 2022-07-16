@@ -10,7 +10,7 @@ sites:
       - "User-Agent: icon uptime"
 
   - name: Prod Mainnet API
-    url: https://tracker.icon.community/api/v1/api/v1/logs?method=Remove&limit=100&address=cxa0af3165c08318e988cb30993b3048335b94af6c
+    url: https://tracker.icon.community/api/v1/logs?method=Remove&limit=100&address=cxa0af3165c08318e988cb30993b3048335b94af6c
     headers:
       - "User-Agent: icon uptime"
 
