@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/blocks
-status: down
-code: 504
-responseTime: 10188
-lastUpdated: 2022-09-17T07:10:08.241Z
+status: up
+code: 200
+responseTime: 2112
+lastUpdated: 2022-09-17T07:19:32.570Z
 startTime: Wed Jun 29 2022 06:48:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
