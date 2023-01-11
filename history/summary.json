@@ -474,10 +474,10 @@
     "url": "https://api.mainnet.sng.vultr.icon.community/api/v3",
     "icon": "https://favicons.githubusercontent.com/api.mainnet.sng.vultr.icon.community",
     "slug": "prod-mainnet-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 782,
@@ -486,7 +486,7 @@
     "timeMonth": 800,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2023-01-11": 44,
+      "2023-01-11": 45,
       "2022-06-07": 57
     }
   },
@@ -543,11 +543,11 @@
     "url": "https://api.sejong.sng.vultr.icon.community/api/v3",
     "icon": "https://favicons.githubusercontent.com/api.sejong.sng.vultr.icon.community",
     "slug": "prod-sejong-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 729,
     "timeDay": 656,
@@ -555,7 +555,7 @@
     "timeMonth": 723,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-01-11": 28,
+      "2023-01-11": 29,
       "2022-06-07": 57
     }
   },
@@ -611,11 +611,11 @@
     "url": "https://api.lisbon.sng.vultr.icon.community/api/v3",
     "icon": "https://favicons.githubusercontent.com/api.lisbon.sng.vultr.icon.community",
     "slug": "prod-lisbon-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 719,
     "timeDay": 656,
@@ -623,7 +623,7 @@
     "timeMonth": 719,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2023-01-11": 28,
+      "2023-01-11": 29,
       "2022-06-07": 56
     }
   },
@@ -681,11 +681,11 @@
     "url": "https://api.berlin.sng.vultr.icon.community/api/v3",
     "icon": "https://favicons.githubusercontent.com/api.berlin.sng.vultr.icon.community",
     "slug": "prod-berlin-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 703,
     "timeDay": 712,
@@ -693,7 +693,7 @@
     "timeMonth": 679,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-01-11": 27,
+      "2023-01-11": 28,
       "2022-11-07": 27,
       "2022-06-07": 56
     }
