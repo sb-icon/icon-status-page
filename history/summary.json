@@ -474,11 +474,11 @@
     "url": "https://api.mainnet.sng.vultr.icon.community/api/v3",
     "icon": "https://favicons.githubusercontent.com/api.mainnet.sng.vultr.icon.community",
     "slug": "prod-mainnet-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 781,
     "timeDay": 724,
@@ -486,7 +486,7 @@
     "timeMonth": 793,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-01-11": 28,
+      "2023-01-11": 29,
       "2022-06-07": 57
     }
   },
