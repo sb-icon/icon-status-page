@@ -1,7 +1,7 @@
 url: https://api.mainnet.ams.vultr.icon.community/api/v3
-status: down
-code: 504
-responseTime: 10903
-lastUpdated: 2023-01-17T23:56:08.279Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2023-01-18T00:50:57.130Z
 startTime: Tue Jun 07 2022 03:00:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
