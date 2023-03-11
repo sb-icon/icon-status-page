@@ -1,7 +1,7 @@
 url: https://api.icon.community/api/v3
-status: up
-code: 200
-responseTime: 678
-lastUpdated: 2023-03-10T23:00:37.814Z
+status: down
+code: 525
+responseTime: 350
+lastUpdated: 2023-03-11T04:47:43.329Z
 startTime: Tue Jun 07 2022 02:04:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
