@@ -136,10 +136,6 @@ status-website:
       href: /
     - title: Grafana
       href: https://tracker.grafana.icon.community
-#    - title: Kibana - US
-#      href: https://kibana.us-west-2.aws.geometry.io/
-#    - title: Kibana - EU
-#      href: https://kibana.eu-west-2.aws.geometry.io/
     - title: GitHub
       href: https://github.com/$OWNER/icon-explorer
 
