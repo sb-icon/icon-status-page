@@ -106,7 +106,7 @@ sites:
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Amsterdam RPC
-    url: https://api.berlin.ams.vultr.icon.community/api/v
+    url: https://api.berlin.ams.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Singapore RPC
