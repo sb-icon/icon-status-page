@@ -75,19 +75,6 @@ sites:
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
-  - name: Prod Sejong RPC
-    url: https://api.sejong.icon.community/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Sejong Amsterdam RPC
-    url: https://api.sejong.ams.vultr.icon.community/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Sejong Singapore RPC
-    url: https://api.sejong.sng.vultr.icon.community/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-
   - name: Prod Lisbon RPC
     url: https://api.lisbon.icon.community/api/v3
     method: POST
