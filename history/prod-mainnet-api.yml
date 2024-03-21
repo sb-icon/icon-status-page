@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/logs?method=Remove&limit=100&address=cxa0af3165c08318e988cb30993b3048335b94af6c
 status: up
 code: 200
-responseTime: 511
-lastUpdated: 2024-03-20T23:00:58.276Z
+responseTime: 615
+lastUpdated: 2024-03-21T23:01:03.984Z
 startTime: Wed Jun 29 2022 06:48:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
