@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/contracts
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-24T08:03:56.360Z
+status: up
+code: 200
+responseTime: 1873
+lastUpdated: 2024-05-24T08:12:35.651Z
 startTime: Wed Jun 29 2022 06:48:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
