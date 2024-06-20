@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/governance/preps
-status: down
-code: 502
-responseTime: 47
-lastUpdated: 2024-06-20T18:38:47.343Z
+status: up
+code: 200
+responseTime: 1434
+lastUpdated: 2024-06-20T18:44:19.051Z
 startTime: Thu Nov 18 2021 02:31:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
