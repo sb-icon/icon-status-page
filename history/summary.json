@@ -10,15 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 818,
-    "timeWeek": 1364,
-    "timeMonth": 1271,
-    "timeYear": 849,
-    "dailyMinutesDown": {
-      "2023-08-31": 7,
-      "2023-08-25": 6
-    }
+    "time": 816,
+    "timeDay": 994,
+    "timeWeek": 745,
+    "timeMonth": 1265,
+    "timeYear": 850,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet API",
@@ -26,20 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-api",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 652,
-    "timeWeek": 696,
-    "timeMonth": 695,
-    "timeYear": 875,
+    "time": 865,
+    "timeDay": 645,
+    "timeWeek": 655,
+    "timeMonth": 671,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2023-08-31": 6,
-      "2023-08-19": 6,
-      "2023-08-01": 13
+      "2023-08-19": 6
     }
   },
   {
@@ -58,9 +53,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-08-30": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Governance Service",
@@ -73,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 1847,
-    "timeWeek": 1547,
-    "timeMonth": 1535,
-    "timeYear": 1048,
+    "time": 1017,
+    "timeDay": 2009,
+    "timeWeek": 1638,
+    "timeMonth": 1542,
+    "timeYear": 1061,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1276,
-    "timeDay": 1440,
-    "timeWeek": 1431,
-    "timeMonth": 1463,
-    "timeYear": 1272,
+    "time": 1277,
+    "timeDay": 1458,
+    "timeWeek": 1427,
+    "timeMonth": 1456,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2024-05-24": 15
     }
@@ -112,10 +105,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 272,
-    "timeWeek": 250,
-    "timeMonth": 245,
-    "timeYear": 181,
+    "timeDay": 280,
+    "timeWeek": 249,
+    "timeMonth": 240,
+    "timeYear": 182,
     "dailyMinutesDown": {}
   },
   {
@@ -128,16 +121,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 491,
-    "timeDay": 320,
-    "timeWeek": 270,
-    "timeMonth": 267,
-    "timeYear": 522,
+    "uptimeYear": "100.00%",
+    "time": 492,
+    "timeDay": 306,
+    "timeWeek": 284,
+    "timeMonth": 263,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2023-08-22": 6,
-      "2023-08-19": 12,
-      "2023-08-01": 12
+      "2023-08-19": 12
     }
   },
   {
@@ -156,9 +147,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-08-30": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Governance Service (Amsterdam)",
@@ -171,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 879,
-    "timeDay": 1568,
-    "timeWeek": 1321,
-    "timeMonth": 1330,
-    "timeYear": 920,
+    "time": 888,
+    "timeDay": 1633,
+    "timeWeek": 1377,
+    "timeMonth": 1342,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -189,11 +178,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1571,
-    "timeWeek": 1501,
-    "timeMonth": 1431,
-    "timeYear": 1210,
+    "time": 1193,
+    "timeDay": 1540,
+    "timeWeek": 1524,
+    "timeMonth": 1442,
+    "timeYear": 1217,
     "dailyMinutesDown": {}
   },
   {
@@ -207,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 267,
+    "time": 186,
+    "timeDay": 278,
     "timeWeek": 247,
-    "timeMonth": 246,
-    "timeYear": 187,
+    "timeMonth": 239,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -225,14 +214,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 287,
-    "timeWeek": 266,
-    "timeMonth": 270,
-    "timeYear": 544,
+    "time": 500,
+    "timeDay": 295,
+    "timeWeek": 267,
+    "timeMonth": 265,
+    "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-08-19": 6,
-      "2023-08-01": 12
+      "2023-08-19": 6
     }
   },
   {
@@ -251,9 +239,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-08-30": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Governance Service (Singapore)",
@@ -266,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 874,
-    "timeDay": 1510,
-    "timeWeek": 1364,
-    "timeMonth": 1363,
-    "timeYear": 908,
+    "time": 882,
+    "timeDay": 1662,
+    "timeWeek": 1408,
+    "timeMonth": 1356,
+    "timeYear": 918,
     "dailyMinutesDown": {}
   },
   {
@@ -284,11 +270,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1195,
-    "timeDay": 1579,
-    "timeWeek": 1508,
-    "timeMonth": 1461,
-    "timeYear": 1207,
+    "time": 1196,
+    "timeDay": 1460,
+    "timeWeek": 1485,
+    "timeMonth": 1463,
+    "timeYear": 1215,
     "dailyMinutesDown": {}
   },
   {
@@ -302,11 +288,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 636,
-    "timeDay": 772,
-    "timeWeek": 530,
-    "timeMonth": 462,
-    "timeYear": 599,
+    "time": 627,
+    "timeDay": 602,
+    "timeWeek": 585,
+    "timeMonth": 485,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2023-08-29": 43
     }
@@ -322,13 +308,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 312,
-    "timeWeek": 482,
-    "timeMonth": 502,
+    "time": 671,
+    "timeDay": 581,
+    "timeWeek": 507,
+    "timeMonth": 513,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-08-21": 6,
       "2023-08-16": 6
     }
   },
@@ -338,16 +323,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mainnet.sng.vultr.icon.community.ico",
     "slug": "prod-mainnet-singapore-rpc",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.94%",
-    "time": 935,
-    "timeDay": 883,
-    "timeWeek": 914,
-    "timeMonth": 883,
-    "timeYear": 988,
+    "time": 937,
+    "timeDay": 1237,
+    "timeWeek": 1009,
+    "timeMonth": 925,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2023-09-19": 253,
       "2023-09-18": 1440,
@@ -382,10 +367,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 750,
-    "timeDay": 323,
-    "timeWeek": 500,
-    "timeMonth": 503,
+    "time": 748,
+    "timeDay": 450,
+    "timeWeek": 495,
+    "timeMonth": 517,
     "timeYear": 809,
     "dailyMinutesDown": {}
   },
@@ -400,11 +385,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 616,
-    "timeDay": 457,
-    "timeWeek": 626,
-    "timeMonth": 531,
-    "timeYear": 613,
+    "time": 597,
+    "timeDay": 381,
+    "timeWeek": 601,
+    "timeMonth": 571,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2023-11-20": 51
     }
@@ -415,16 +400,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lisbon.sng.vultr.icon.community.ico",
     "slug": "prod-lisbon-singapore-rpc",
     "status": "up",
-    "uptime": "97.62%",
+    "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.94%",
-    "time": 812,
-    "timeDay": 1028,
-    "timeWeek": 829,
-    "timeMonth": 814,
-    "timeYear": 824,
+    "time": 814,
+    "timeDay": 1181,
+    "timeWeek": 895,
+    "timeMonth": 833,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2023-09-19": 253,
       "2023-09-18": 1440,
@@ -459,11 +444,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 684,
-    "timeDay": 673,
-    "timeWeek": 509,
-    "timeMonth": 489,
-    "timeYear": 670,
+    "time": 646,
+    "timeDay": 580,
+    "timeWeek": 532,
+    "timeMonth": 519,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -472,16 +457,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.berlin.ams.vultr.icon.community.ico",
     "slug": "prod-berlin-amsterdam-rpc",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 540,
-    "timeDay": 333,
-    "timeWeek": 587,
-    "timeMonth": 533,
-    "timeYear": 582,
+    "time": 543,
+    "timeDay": 585,
+    "timeWeek": 619,
+    "timeMonth": 556,
+    "timeYear": 584,
     "dailyMinutesDown": {
       "2023-12-14": 156,
       "2023-11-20": 50,
@@ -494,16 +479,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.berlin.sng.vultr.icon.community.ico",
     "slug": "prod-berlin-singapore-rpc",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.94%",
-    "time": 811,
-    "timeDay": 835,
-    "timeWeek": 872,
-    "timeMonth": 809,
-    "timeYear": 854,
+    "time": 813,
+    "timeDay": 1337,
+    "timeWeek": 906,
+    "timeMonth": 810,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2023-11-20": 20,
       "2023-09-19": 253,
