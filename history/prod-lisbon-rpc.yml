@@ -1,7 +1,7 @@
 url: https://api.lisbon.icon.community/api/v3
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2024-08-17T23:01:34.795Z
+status: down
+code: 525
+responseTime: 3687
+lastUpdated: 2024-08-18T02:33:23.556Z
 startTime: 2022-06-07T03:00:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
