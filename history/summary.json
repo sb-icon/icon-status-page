@@ -40,10 +40,10 @@
     "url": "https://tracker.icon.community/ws/v1/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-blocks-service-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 0,
@@ -51,7 +51,9 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
   },
   {
     "name": "Prod Mainnet Governance Service",
@@ -132,10 +134,10 @@
     "url": "https://tracker.icon.community/ws/v1/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-blocks-service-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 0,
@@ -143,7 +145,9 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 2
+    }
   },
   {
     "name": "Prod Mainnet Governance Service (Amsterdam)",
@@ -152,18 +156,16 @@
     "slug": "prod-mainnet-governance-service-amsterdam",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 990,
     "timeDay": 3833,
     "timeWeek": 3197,
     "timeMonth": 2608,
     "timeYear": 1090,
-    "dailyMinutesDown": {
-      "2024-08-24": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Contracts Service (Amsterdam)",
@@ -224,10 +226,10 @@
     "url": "https://tracker.icon.community/ws/v1/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-blocks-service-ws",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 0,
@@ -235,25 +237,29 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 2
+    }
   },
   {
     "name": "Prod Mainnet Governance Service (Singapore)",
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 2755,
-    "timeWeek": 2966,
-    "timeMonth": 2563,
-    "timeYear": 1063,
-    "dailyMinutesDown": {}
+    "time": 1010,
+    "timeDay": 11559,
+    "timeWeek": 5141,
+    "timeMonth": 3119,
+    "timeYear": 1116,
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
   },
   {
     "name": "Prod Mainnet Contracts Service (Singapore)",
