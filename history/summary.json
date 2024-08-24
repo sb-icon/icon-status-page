@@ -150,19 +150,19 @@
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service-amsterdam",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 985,
-    "timeDay": 4239,
-    "timeWeek": 3219,
-    "timeMonth": 2595,
-    "timeYear": 1085,
+    "time": 990,
+    "timeDay": 3833,
+    "timeWeek": 3197,
+    "timeMonth": 2608,
+    "timeYear": 1090,
     "dailyMinutesDown": {
-      "2024-08-24": 1
+      "2024-08-24": 6
     }
   },
   {
