@@ -1,7 +1,7 @@
 url: https://api.berlin.icon.community/api/v3
-status: up
-code: 200
-responseTime: 789
-lastUpdated: 2024-08-27T23:01:44.559Z
+status: down
+code: 504
+responseTime: 10948
+lastUpdated: 2024-08-28T16:14:12.088Z
 startTime: 2022-06-07T03:00:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
