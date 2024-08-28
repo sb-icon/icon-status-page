@@ -58,19 +58,19 @@
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 6686,
-    "timeWeek": 4036,
-    "timeMonth": 3112,
-    "timeYear": 1253,
+    "time": 1144,
+    "timeDay": 5472,
+    "timeWeek": 3926,
+    "timeMonth": 3110,
+    "timeYear": 1258,
     "dailyMinutesDown": {
-      "2024-08-28": 3
+      "2024-08-28": 11
     }
   },
   {
@@ -260,19 +260,19 @@
     "url": "https://tracker.icon.community/api/v1/contracts",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-contracts-service-singapore",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1219,
-    "timeDay": 5976,
-    "timeWeek": 2601,
-    "timeMonth": 1733,
-    "timeYear": 1255,
+    "time": 1221,
+    "timeDay": 4464,
+    "timeWeek": 2472,
+    "timeMonth": 1724,
+    "timeYear": 1256,
     "dailyMinutesDown": {
-      "2024-08-28": 2
+      "2024-08-28": 10
     }
   },
   {
@@ -435,19 +435,19 @@
     "url": "https://api.berlin.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.berlin.icon.community.ico",
     "slug": "prod-berlin-rpc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 5869,
-    "timeWeek": 2151,
-    "timeMonth": 946,
+    "time": 678,
+    "timeDay": 4093,
+    "timeWeek": 1973,
+    "timeMonth": 935,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-08-28": 1
+      "2024-08-28": 9
     }
   },
   {
