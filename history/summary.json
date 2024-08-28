@@ -22,19 +22,19 @@
     "url": "https://tracker.icon.community/api/v1/logs?method=Remove&limit=100&address=cxa0af3165c08318e988cb30993b3048335b94af6c",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 5438,
-    "timeWeek": 2598,
-    "timeMonth": 1279,
-    "timeYear": 886,
+    "time": 852,
+    "timeDay": 4486,
+    "timeWeek": 2424,
+    "timeMonth": 1262,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-08-28": 2
+      "2024-08-28": 6
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "https://tracker.icon.community/api/v1/blocks",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-api-singapore",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 493,
-    "timeDay": 5213,
-    "timeWeek": 1521,
-    "timeMonth": 578,
+    "timeDay": 3569,
+    "timeWeek": 1383,
+    "timeMonth": 569,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2024-08-28": 1
+      "2024-08-28": 5
     }
   },
   {
@@ -244,19 +244,19 @@
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service-singapore",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 6552,
-    "timeWeek": 5428,
-    "timeMonth": 3566,
-    "timeYear": 1170,
+    "time": 1061,
+    "timeDay": 5328,
+    "timeWeek": 5197,
+    "timeMonth": 3546,
+    "timeYear": 1175,
     "dailyMinutesDown": {
-      "2024-08-28": 1
+      "2024-08-28": 5
     }
   },
   {
