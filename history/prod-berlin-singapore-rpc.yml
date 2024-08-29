@@ -1,7 +1,7 @@
 url: https://api.berlin.sng.vultr.icon.community/api/v3
-status: down
-code: 504
-responseTime: 11003
-lastUpdated: 2024-08-29T03:50:14.886Z
+status: up
+code: 200
+responseTime: 777
+lastUpdated: 2024-08-29T03:56:26.162Z
 startTime: 2022-06-07T03:00:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
