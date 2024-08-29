@@ -22,19 +22,19 @@
     "url": "https://tracker.icon.community/api/v1/logs?method=Remove&limit=100&address=cxa0af3165c08318e988cb30993b3048335b94af6c",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 852,
-    "timeDay": 4486,
-    "timeWeek": 2424,
-    "timeMonth": 1262,
-    "timeYear": 885,
+    "time": 871,
+    "timeDay": 5446,
+    "timeWeek": 3075,
+    "timeMonth": 1512,
+    "timeYear": 909,
     "dailyMinutesDown": {
-      "2024-08-28": 6
+      "2024-08-29": 2
     }
   },
   {
@@ -60,18 +60,20 @@
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1148,
-    "timeDay": 5441,
-    "timeWeek": 3895,
-    "timeMonth": 3157,
-    "timeYear": 1265,
-    "dailyMinutesDown": {}
+    "time": 1167,
+    "timeDay": 6647,
+    "timeWeek": 4532,
+    "timeMonth": 3366,
+    "timeYear": 1289,
+    "dailyMinutesDown": {
+      "2024-08-29": 1
+    }
   },
   {
     "name": "Prod Mainnet Contracts Service",
@@ -207,19 +209,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-api-singapore",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
     "timeDay": 3569,
     "timeWeek": 1383,
     "timeMonth": 569,
     "timeYear": 525,
-    "dailyMinutesDown": {
-      "2024-08-28": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Blocks Service (WS)",
@@ -246,18 +246,16 @@
     "slug": "prod-mainnet-governance-service-singapore",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1061,
     "timeDay": 5328,
     "timeWeek": 5197,
     "timeMonth": 3546,
     "timeYear": 1175,
-    "dailyMinutesDown": {
-      "2024-08-28": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Contracts Service (Singapore)",
