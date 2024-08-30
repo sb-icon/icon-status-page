@@ -280,19 +280,19 @@
     "url": "https://api.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.icon.community.ico",
     "slug": "prod-mainnet-rpc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 616,
-    "timeDay": 5771,
-    "timeWeek": 2057,
-    "timeMonth": 905,
+    "timeDay": 4015,
+    "timeWeek": 1885,
+    "timeMonth": 894,
     "timeYear": 601,
     "dailyMinutesDown": {
-      "2024-08-30": 1
+      "2024-08-30": 6
     }
   },
   {
