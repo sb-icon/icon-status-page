@@ -325,8 +325,8 @@
     "slug": "prod-mainnet-singapore-rpc",
     "status": "up",
     "uptime": "97.68%",
-    "uptimeDay": "29.22%",
-    "uptimeWeek": "89.89%",
+    "uptimeDay": "29.00%",
+    "uptimeWeek": "89.86%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.19%",
     "time": 940,
@@ -335,7 +335,7 @@
     "timeMonth": 821,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2024-09-16": 1019,
+      "2024-09-16": 1022,
       "2023-09-19": 253,
       "2023-09-18": 1440
     }
@@ -408,9 +408,9 @@
     "slug": "prod-berlin-rpc",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "29.45%",
-    "uptimeWeek": "89.92%",
-    "uptimeMonth": "97.68%",
+    "uptimeDay": "29.23%",
+    "uptimeWeek": "89.89%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.81%",
     "time": 688,
     "timeDay": 758,
@@ -418,7 +418,7 @@
     "timeMonth": 1065,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-09-16": 1016
+      "2024-09-16": 1019
     }
   },
   {
@@ -426,19 +426,19 @@
     "url": "https://api.berlin.ams.vultr.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.berlin.ams.vultr.icon.community.ico",
     "slug": "prod-berlin-amsterdam-rpc",
-    "status": "down",
+    "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.87%",
     "time": 593,
-    "timeDay": 5503,
-    "timeWeek": 2546,
-    "timeMonth": 1072,
-    "timeYear": 612,
+    "timeDay": 4507,
+    "timeWeek": 2362,
+    "timeMonth": 1057,
+    "timeYear": 611,
     "dailyMinutesDown": {
-      "2024-09-16": 1,
+      "2024-09-16": 3,
       "2024-08-18": 471,
       "2023-12-14": 156,
       "2023-11-20": 50
