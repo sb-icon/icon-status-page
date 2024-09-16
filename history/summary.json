@@ -44,7 +44,7 @@
     "slug": "prod-mainnet-blocks-service-ws",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,27 +53,26 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-16": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Governance Service",
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1261,
-    "timeDay": 3422,
-    "timeWeek": 3217,
-    "timeMonth": 3568,
-    "timeYear": 1424,
+    "time": 1281,
+    "timeDay": 6768,
+    "timeWeek": 4079,
+    "timeMonth": 3750,
+    "timeYear": 1448,
     "dailyMinutesDown": {
+      "2024-09-16": 3,
       "2024-08-29": 17
     }
   },
@@ -140,7 +139,7 @@
     "slug": "prod-mainnet-blocks-service-ws",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,27 +148,27 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-16": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Governance Service (Amsterdam)",
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service-amsterdam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 3254,
-    "timeWeek": 3161,
-    "timeMonth": 3105,
-    "timeYear": 1239,
-    "dailyMinutesDown": {}
+    "time": 1121,
+    "timeDay": 6684,
+    "timeWeek": 4030,
+    "timeMonth": 3311,
+    "timeYear": 1264,
+    "dailyMinutesDown": {
+      "2024-09-16": 2
+    }
   },
   {
     "name": "Prod Mainnet Contracts Service (Amsterdam)",
@@ -232,7 +231,7 @@
     "slug": "prod-mainnet-blocks-service-ws",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,9 +240,7 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-16": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Governance Service (Singapore)",
@@ -287,19 +284,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icon.community.ico",
     "slug": "prod-mainnet-rpc",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
     "timeDay": 643,
     "timeWeek": 707,
     "timeMonth": 976,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2024-09-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Mainnet Amsterdam RPC",
@@ -328,9 +323,9 @@
     "slug": "prod-mainnet-singapore-rpc",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.19%",
     "time": 940,
     "timeDay": 915,
@@ -338,7 +333,7 @@
     "timeMonth": 821,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2024-09-16": 2,
+      "2024-09-16": 14,
       "2023-09-19": 253,
       "2023-09-18": 1440
     }
@@ -387,19 +382,19 @@
     "url": "https://api.lisbon.sng.vultr.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.lisbon.sng.vultr.icon.community.ico",
     "slug": "prod-lisbon-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "97.77%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.19%",
-    "time": 812,
+    "time": 807,
     "timeDay": 994,
     "timeWeek": 849,
     "timeMonth": 848,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2024-09-16": 0,
+      "2024-09-16": 12,
       "2023-09-19": 253,
       "2023-09-18": 1440
     }
@@ -411,16 +406,18 @@
     "slug": "prod-berlin-rpc",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 688,
     "timeDay": 758,
     "timeWeek": 780,
     "timeMonth": 1065,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 10
+    }
   },
   {
     "name": "Prod Berlin Amsterdam RPC",
@@ -454,7 +451,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 882,
     "timeDay": 802,
     "timeWeek": 801,
