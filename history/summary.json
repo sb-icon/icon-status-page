@@ -280,18 +280,20 @@
     "url": "https://api.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.icon.community.ico",
     "slug": "prod-mainnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
+    "time": 625,
     "timeDay": 530,
     "timeWeek": 686,
     "timeMonth": 979,
     "timeYear": 611,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 1
+    }
   },
   {
     "name": "Prod Mainnet Amsterdam RPC",
@@ -323,7 +325,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 940,
     "timeDay": 915,
     "timeWeek": 788,
@@ -341,18 +343,16 @@
     "slug": "prod-lisbon-rpc",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 777,
     "timeDay": 778,
     "timeWeek": 820,
     "timeMonth": 878,
     "timeYear": 836,
-    "dailyMinutesDown": {
-      "2024-09-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod Lisbon Amsterdam RPC",
@@ -385,7 +385,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.19%",
     "time": 812,
     "timeDay": 994,
     "timeWeek": 849,
