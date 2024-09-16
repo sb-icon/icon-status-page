@@ -62,17 +62,17 @@
     "slug": "prod-mainnet-governance-service",
     "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 1281,
     "timeDay": 6768,
     "timeWeek": 4079,
     "timeMonth": 3750,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-09-16": 3,
+      "2024-09-16": 13,
       "2024-08-29": 17
     }
   },
@@ -157,9 +157,9 @@
     "slug": "prod-mainnet-governance-service-amsterdam",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1121,
     "timeDay": 6684,
@@ -167,7 +167,7 @@
     "timeMonth": 3311,
     "timeYear": 1264,
     "dailyMinutesDown": {
-      "2024-09-16": 2
+      "2024-09-16": 12
     }
   },
   {
@@ -247,18 +247,20 @@
     "url": "https://tracker.icon.community/api/v1/governance/preps",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.icon.community.ico",
     "slug": "prod-mainnet-governance-service-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1149,
-    "timeDay": 3214,
-    "timeWeek": 3112,
-    "timeMonth": 3754,
-    "timeYear": 1300,
-    "dailyMinutesDown": {}
+    "time": 1168,
+    "timeDay": 6691,
+    "timeWeek": 3994,
+    "timeMonth": 3932,
+    "timeYear": 1324,
+    "dailyMinutesDown": {
+      "2024-09-16": 1
+    }
   },
   {
     "name": "Prod Mainnet Contracts Service (Singapore)",
@@ -323,9 +325,9 @@
     "slug": "prod-mainnet-singapore-rpc",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.19%",
     "time": 940,
     "timeDay": 915,
@@ -333,7 +335,7 @@
     "timeMonth": 821,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2024-09-16": 14,
+      "2024-09-16": 23,
       "2023-09-19": 253,
       "2023-09-18": 1440
     }
@@ -382,19 +384,19 @@
     "url": "https://api.lisbon.sng.vultr.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.lisbon.sng.vultr.icon.community.ico",
     "slug": "prod-lisbon-singapore-rpc",
-    "status": "down",
+    "status": "up",
     "uptime": "97.77%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.19%",
     "time": 807,
-    "timeDay": 994,
-    "timeWeek": 849,
-    "timeMonth": 848,
-    "timeYear": 834,
+    "timeDay": 879,
+    "timeWeek": 827,
+    "timeMonth": 842,
+    "timeYear": 833,
     "dailyMinutesDown": {
-      "2024-09-16": 12,
+      "2024-09-16": 21,
       "2023-09-19": 253,
       "2023-09-18": 1440
     }
@@ -406,9 +408,9 @@
     "slug": "prod-berlin-rpc",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 688,
     "timeDay": 758,
@@ -416,7 +418,7 @@
     "timeMonth": 1065,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-09-16": 10
+      "2024-09-16": 20
     }
   },
   {
