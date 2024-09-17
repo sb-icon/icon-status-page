@@ -1,7 +1,7 @@
 url: https://api.berlin.ams.vultr.icon.community/api/v3
-status: up
-code: 200
-responseTime: 117
-lastUpdated: 2024-09-16T23:01:48.580Z
+status: down
+code: 504
+responseTime: 10648
+lastUpdated: 2024-09-17T04:42:13.312Z
 startTime: 2022-06-07T03:00:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
