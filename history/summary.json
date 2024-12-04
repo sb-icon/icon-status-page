@@ -293,18 +293,20 @@
     "url": "https://api.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.icon.community.ico",
     "slug": "prod-mainnet-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 908,
-    "timeWeek": 657,
-    "timeMonth": 601,
-    "timeYear": 653,
-    "dailyMinutesDown": {}
+    "time": 636,
+    "timeDay": 574,
+    "timeWeek": 604,
+    "timeMonth": 590,
+    "timeYear": 651,
+    "dailyMinutesDown": {
+      "2024-12-04": 1
+    }
   },
   {
     "name": "Prod Mainnet Amsterdam RPC",
@@ -410,7 +412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lisbon.sng.vultr.icon.community.ico",
     "slug": "prod-lisbon-singapore-rpc",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.82%",
