@@ -14,11 +14,6 @@ sites:
     headers:
       - "User-Agent: icon uptime"
 
-#  - name: Prod Mainnet API
-#    url: https://tracker.icon.community/api/v1/api/v1/blocks
-#    headers:
-#      - "User-Agent: icon uptime"
-
   - name: Prod Mainnet Blocks Service (WS)
     check: "ws"
     maxResponseTime: 10000
@@ -26,48 +21,30 @@ sites:
 
   - name: Prod Mainnet Governance Service
     url: https://tracker.icon.community/api/v1/governance/preps
+    headers:
+      - "User-Agent: icon uptime"
 
   - name: Prod Mainnet Contracts Service
     url: https://tracker.icon.community/api/v1/contracts
+    headers:
+      - "User-Agent: icon uptime"
 
-  # Ams MAINNET
-  - name: Prod Mainnet Tracker Frontend (Amsterdam)
-    url: https://tracker.icon.community/
-
-  - name: Prod Mainnet API (Amsterdam)
+  - name: Prod Mainnet API
     url: https://tracker.icon.community/api/v1/blocks
-  - name: Prod Mainnet Blocks Service (WS)
-    check: "ws"
-    maxResponseTime: 10000
-    url: https://tracker.icon.community/ws/v1/blocks
+    headers:
+      - "User-Agent: icon uptime"
 
-  - name: Prod Mainnet Governance Service (Amsterdam)
+  - name: Prod Mainnet Governance Service
     url: https://tracker.icon.community/api/v1/governance/preps
-  - name: Prod Mainnet Contracts Service (Amsterdam)
-    url: https://tracker.icon.community/api/v1/contracts
-
-  # Sng MAINNET
-  - name: Prod Mainnet Tracker Frontend (Singapore)
-    url: https://tracker.icon.community/
-
-  - name: Prod Mainnet API (Singapore)
-    url: https://tracker.icon.community/api/v1/blocks
-  - name: Prod Mainnet Blocks Service (WS)
-    check: "ws"
-    maxResponseTime: 10000
-    url: https://tracker.icon.community/ws/v1/blocks
-
-  - name: Prod Mainnet Governance Service (Singapore)
-    url: https://tracker.icon.community/api/v1/governance/preps
-  - name: Prod Mainnet Contracts Service (Singapore)
+  - name: Prod Mainnet Contracts Service
     url: https://tracker.icon.community/api/v1/contracts
 
   - name: Prod Mainnet RPC
     url: https://api.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Mainnet Amsterdam RPC
-    url: https://api.mainnet.ams.vultr.icon.community/api/v3
+  - name: Prod Mainnet Cluster1 RPC
+    url: https://cluster1.api.mainnet.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Mainnet Singapore RPC
@@ -79,8 +56,8 @@ sites:
     url: https://api.lisbon.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Lisbon Amsterdam RPC
-    url: https://api.lisbon.ams.vultr.icon.community/api/v3
+  - name: Prod Lisbon Cluster1 RPC
+    url: https://cluster1.api.lisbon.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Lisbon Singapore RPC
@@ -88,14 +65,14 @@ sites:
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
-#  - name: Prod Berlin RPC
-#    url: https://api.berlin.icon.community/api/v3
-#    method: POST
-#    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-#  - name: Prod Berlin Amsterdam RPC
-#    url: https://api.berlin.ams.vultr.icon.community/api/v3
-#    method: POST
-#    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
+  - name: Prod Berlin RPC
+    url: https://api.berlin.icon.community/api/v3
+    method: POST
+    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
+  - name: Prod Berlin Cluster1 RPC
+    url: https://cluster1.api.berlin.icon.community/api/v3
+    method: POST
+    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Singapore RPC
     url: https://api.berlin.sng.vultr.icon.community/api/v3
     method: POST
