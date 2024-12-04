@@ -349,18 +349,19 @@
     "url": "https://api.berlin.sng.vultr.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/api.berlin.sng.vultr.icon.community.ico",
     "slug": "prod-berlin-singapore-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "97.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 975,
-    "timeDay": 1093,
-    "timeWeek": 1137,
-    "timeMonth": 1836,
-    "timeYear": 1024,
+    "time": 995,
+    "timeDay": 4264,
+    "timeWeek": 2189,
+    "timeMonth": 2110,
+    "timeYear": 1049,
     "dailyMinutesDown": {
+      "2024-12-04": 1,
       "2024-09-27": 119
     }
   }
