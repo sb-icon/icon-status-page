@@ -1,7 +1,7 @@
 url: https://cluster1.api.berlin.icon.community/api/v3
-status: up
-code: 200
-responseTime: 56
-lastUpdated: 2025-01-21T06:22:07.963Z
+status: down
+code: 502
+responseTime: 79
+lastUpdated: 2025-01-21T06:56:41.282Z
 startTime: 2024-12-04T16:39:42.792Z
 generator: Upptime <https://github.com/upptime/upptime>
