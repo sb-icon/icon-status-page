@@ -29,15 +29,20 @@ sites:
     headers:
       - "User-Agent: icon uptime"
 
-  - name: Prod Mainnet API
-    url: https://tracker.icon.community/api/v1/blocks
+  - name: Prod Mainnet Balanced
+    url: https://balanced.icon.community/api/v1/tokens
     headers:
       - "User-Agent: icon uptime"
 
-  - name: Prod Mainnet Governance Service
-    url: https://tracker.icon.community/api/v1/governance/preps
-  - name: Prod Mainnet Contracts Service
-    url: https://tracker.icon.community/api/v1/contracts
+  - name: Prod Mainnet Balanced Cluster1
+    url: https://cluster1.balanced.mainnet.icon.community/api/v1/tokens
+    headers:
+      - "User-Agent: icon uptime"
+
+#  - name: Prod Mainnet Balanced Cluster2
+#    url: https://cluster2.balanced.mainnet.icon.community/api/v1/tokens
+#    headers:
+#      - "User-Agent: icon uptime"
 
   - name: Prod Mainnet RPC
     url: https://api.icon.community/api/v3
@@ -45,6 +50,10 @@ sites:
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Mainnet Cluster1 RPC
     url: https://cluster1.api.mainnet.icon.community/api/v3
+    method: POST
+    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
+  - name: Prod Mainnet Cluster2 RPC
+    url: https://cluster2.api.mainnet.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Mainnet Singapore RPC
@@ -60,6 +69,10 @@ sites:
     url: https://cluster1.api.lisbon.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
+  - name: Prod Lisbon Cluster2 RPC
+    url: https://cluster2.api.lisbon.icon.community/api/v3
+    method: POST
+    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Lisbon Singapore RPC
     url: https://api.lisbon.sng.vultr.icon.community/api/v3
     method: POST
@@ -71,6 +84,10 @@ sites:
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Cluster1 RPC
     url: https://cluster1.api.berlin.icon.community/api/v3
+    method: POST
+    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
+  - name: Prod Berlin Cluster2 RPC
+    url: https://cluster2.api.berlin.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Singapore RPC
