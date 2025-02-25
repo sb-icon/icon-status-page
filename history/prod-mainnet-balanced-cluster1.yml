@@ -1,7 +1,7 @@
 url: https://cluster1.balanced.mainnet.icon.community/api/v1/tokens
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-25T11:29:29.250Z
+status: up
+code: 200
+responseTime: 311
+lastUpdated: 2025-02-25T12:47:38.577Z
 startTime: 2025-02-04T19:51:44.413Z
 generator: Upptime <https://github.com/upptime/upptime>
