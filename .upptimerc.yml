@@ -56,11 +56,6 @@ sites:
     url: https://cluster2.api.mainnet.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Mainnet Singapore RPC
-    url: https://api.mainnet.sng.vultr.icon.community/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-
   - name: Prod Lisbon RPC
     url: https://api.lisbon.icon.community/api/v3
     method: POST
@@ -73,11 +68,6 @@ sites:
     url: https://cluster2.api.lisbon.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Lisbon Singapore RPC
-    url: https://api.lisbon.sng.vultr.icon.community/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-
   - name: Prod Berlin RPC
     url: https://api.berlin.icon.community/api/v3
     method: POST
@@ -88,10 +78,6 @@ sites:
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
   - name: Prod Berlin Cluster2 RPC
     url: https://cluster2.api.berlin.icon.community/api/v3
-    method: POST
-    body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
-  - name: Prod Berlin Singapore RPC
-    url: https://api.berlin.sng.vultr.icon.community/api/v3
     method: POST
     body: '{"jsonrpc": "2.0","method": "icx_getLastBlock","id": 1234}'
 
