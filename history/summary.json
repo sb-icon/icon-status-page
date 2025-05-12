@@ -192,19 +192,19 @@
     "url": "https://cluster2.api.mainnet.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/cluster2.api.mainnet.icon.community.ico",
     "slug": "prod-mainnet-cluster2-rpc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.64%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
-    "time": 362,
-    "timeDay": 402,
-    "timeWeek": 387,
-    "timeMonth": 395,
-    "timeYear": 362,
+    "time": 364,
+    "timeDay": 415,
+    "timeWeek": 396,
+    "timeMonth": 398,
+    "timeYear": 364,
     "dailyMinutesDown": {
-      "2025-05-12": 40
+      "2025-05-12": 48
     }
   },
   {
@@ -252,19 +252,19 @@
     "url": "https://cluster2.api.lisbon.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/cluster2.api.lisbon.icon.community.ico",
     "slug": "prod-lisbon-cluster2-rpc",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.98%",
-    "time": 299,
-    "timeDay": 262,
-    "timeWeek": 270,
-    "timeMonth": 315,
-    "timeYear": 299,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 300,
+    "timeDay": 282,
+    "timeWeek": 281,
+    "timeMonth": 318,
+    "timeYear": 300,
     "dailyMinutesDown": {
-      "2025-05-12": 32
+      "2025-05-12": 40
     }
   },
   {
