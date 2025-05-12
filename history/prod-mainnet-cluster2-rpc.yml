@@ -1,7 +1,7 @@
 url: https://cluster2.api.mainnet.icon.community/api/v3
-status: up
-code: 200
-responseTime: 405
-lastUpdated: 2025-05-12T13:37:50.797Z
+status: down
+code: 521
+responseTime: 961
+lastUpdated: 2025-05-12T14:11:11.221Z
 startTime: 2025-02-04T19:51:46.026Z
 generator: Upptime <https://github.com/upptime/upptime>
