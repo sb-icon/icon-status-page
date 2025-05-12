@@ -192,19 +192,19 @@
     "url": "https://cluster2.api.mainnet.icon.community/api/v3",
     "icon": "https://icons.duckduckgo.com/ip3/cluster2.api.mainnet.icon.community.ico",
     "slug": "prod-mainnet-cluster2-rpc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 408,
-    "timeWeek": 378,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 361,
+    "timeDay": 407,
+    "timeWeek": 381,
     "timeMonth": 394,
-    "timeYear": 360,
+    "timeYear": 361,
     "dailyMinutesDown": {
-      "2025-05-12": 1
+      "2025-05-12": 15
     }
   },
   {
@@ -253,18 +253,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cluster2.api.lisbon.icon.community.ico",
     "slug": "prod-lisbon-cluster2-rpc",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 302,
     "timeDay": 343,
     "timeWeek": 288,
     "timeMonth": 328,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-05-12": 0
+      "2025-05-12": 15
     }
   },
   {
@@ -277,7 +277,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.04%",
+    "uptimeYear": "84.05%",
     "time": 1209,
     "timeDay": 246,
     "timeWeek": 253,
