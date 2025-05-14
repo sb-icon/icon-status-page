@@ -1,7 +1,7 @@
 url: https://balanced.icon.community/api/v1/tokens
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-14T06:32:48.135Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2025-05-14T06:51:53.585Z
 startTime: 2025-02-04T19:51:42.867Z
 generator: Upptime <https://github.com/upptime/upptime>
