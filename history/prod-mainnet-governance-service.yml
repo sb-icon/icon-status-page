@@ -1,7 +1,7 @@
 url: https://tracker.icon.community/api/v1/governance/preps
-status: down
-code: 523
-responseTime: 1074
-lastUpdated: 2025-05-14T06:29:43.538Z
+status: up
+code: 200
+responseTime: 342
+lastUpdated: 2025-05-14T06:51:46.631Z
 startTime: 2021-11-18T02:31:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
