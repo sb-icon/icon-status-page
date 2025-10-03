@@ -1,4 +1,4 @@
-owner: sudoblockio
+owner: sb-icon
 repo: icon-status-page
 
 sites:
@@ -87,12 +87,12 @@ status-website:
     - rel: stylesheet
       href: https://rheannone.github.io/CSS/css/icon-status_dark-theme.css
   cname: tracker.status.icon.community
-  logoUrl: https://raw.githubusercontent.com/sudoblockio/icon-status-page/main/assets/icon-logo.png
+  logoUrl: https://raw.githubusercontent.com/sb-icon/icon-status-page/main/assets/icon-logo.png
   name: ICON Blockchain
   introTitle: |
     Status page for the **ICON Blockchain**
     Endpoints supported by **sudoblock**
-  favicon: https://raw.githubusercontent.com/sudoblockio/icon-status-page/master/assets/icon-favicon.png
+  favicon: https://raw.githubusercontent.com/sb-icon/icon-status-page/master/assets/icon-favicon.png
   metaTags:
     - name: "ICON Status"
     - content: "noIndex"
